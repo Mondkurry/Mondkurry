@@ -31,10 +31,11 @@ I’m currently working on an [OpenGL Graphics Rendering Engine](https://github.
 ### 🛥️ Boat Project for Laboratory for AI Robotics and Automation (LARA)
 Currently working on simulating a USV Boat in ROS2 Foxy and Gazebo 11 as part of the Laboratory for AI Robotics and Automation at UC Davis. Premise of research is to apply RL techniques to a USV.
 
+<!--
 ### 🐢 Basic ROS2 Obstacle Avoidance
 ROS2 Rover Project! Trying out some very simple nodes that include basic obstacle avoidance using Lidar, planning to add SLAM, Path Planning, and more cool stuff!
  
-<!--
+
 **Mondkurry/Mondkurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
