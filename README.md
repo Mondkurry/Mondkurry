@@ -1,22 +1,35 @@
 # Hi there 👋 I'm Aryan
 `UC Davis Student Majoring in Mechanical Engineering :)`
 
-## Languages:
+My name is Aryan, I am super passionate about Robotics both on the Hardware and Software side. I have a strong background in Mechanical Design for Robotics but I also love to code anything I can get my hands on from basic ML models, SLAM/path planning, and computer vision/graphics.
+
+### Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
 </div>
 
+### Libraries and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="openCV" alt="openCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="openGL" alt="openGL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+</div>
+  
+# Current Projects: 
 
-My name is Aryan, I am super passionate about Robotics both on the Hardware and Software side. I have a strong background in Mechanical Design for Robotics but I also love to code anything I can get my hands on from basic ML models, SLAM/path planning, and graphics are all areas of interest.
-
-
-
-
-
-- 🖼️ I’m currently working on an [OpenGL Graphics Rendering Engine](https://github.com/AdityaGupta03/GraphicsEngine) with my friends [Aditya Gupta](https://github.com/AdityaGupta03) and [Vasilis Gadala](https://github.com/VasilisGadala)!
-- 🐢 I’m currently learning some robotics frameworks, and how embedded systems work using ROS2. I hope to learn some more SLAM stuff by the end of the summer. [Here](https://github.com/Mondkurry/ros2-rover-model-gazebo) are some extremely simple nodes I made for Lidar-Based Obstacle Avoidance with a Gazebo Rover.
-- 
+### 🖼️ OpenGL Graphics Engine
+I’m currently working on an [OpenGL Graphics Rendering Engine](https://github.com/AdityaGupta03/GraphicsEngine) with my friends [Aditya Gupta](https://github.com/AdityaGupta03) and [Vasilis Gadala](https://github.com/VasilisGadala)!. Our goal for the project is to be able to manipulate 3d models within a GUI to create a scene and then create a "final render" in the form of an output image using ray tracing algorithms. This can be used to render CAD models of designs and other 3d files. 
+### 🚤 LARA
+Currently working on simulating a USV Boat in ROS2 Foxy and Gazebo 11 as part of the Laboratory for AI Robotics and Automation at UC Davis. Premise of research is to apply RL techniques to a USV.
+ 
 <!--
 **Mondkurry/Mondkurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
