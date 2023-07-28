@@ -27,7 +27,8 @@ My name is Aryan, I am super passionate about Robotics🦾 both on the Hardware 
 
 ### 🖼️ OpenGL Graphics Engine
 I’m currently working on an [OpenGL Graphics Rendering Engine](https://github.com/AdityaGupta03/GraphicsEngine) with my friends [Aditya Gupta](https://github.com/AdityaGupta03) and [Vasilis Gadala](https://github.com/VasilisGadala)!. Our goal for the project is to be able to manipulate 3d models within a GUI to create a scene and then create a "final render" in the form of an output image using ray tracing algorithms. This can be used to render CAD models of designs and other 3d files. 
-### 🚤 LARA
+
+### 🛥️ Boat Project for Laboratory for AI Robotics and Automation (LARA)
 Currently working on simulating a USV Boat in ROS2 Foxy and Gazebo 11 as part of the Laboratory for AI Robotics and Automation at UC Davis. Premise of research is to apply RL techniques to a USV.
  
 <!--
