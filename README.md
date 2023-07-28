@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aryan
 `UC Davis Student Majoring in Mechanical Engineering :)`
 
-My name is Aryan, I am super passionate about Robotics both on the Hardware and Software side. I have a strong background in Mechanical Design for Robotics but I also love to code anything I can get my hands on from basic ML models, SLAM/path planning, and computer vision/graphics.
+My name is Aryan, I am super passionate about Robotics🦾 both on the Hardware and Software side. I have a strong background in Mechanical Design for Robotics but I also love to code anything I can get my hands on from basic ML models, SLAM, and computer vision/graphics.
 
 ### Languages:
 <div>
