@@ -17,6 +17,7 @@ My name is Aryan, I am super passionate about Robotics🦾 both on the Hardware 
 
 ### Libraries and Tools:
 <div>
+  <img src="https://user-images.githubusercontent.com/3882981/42413703-62f30654-822e-11e8-9d46-18fb562f5490.png" title="Nvim" alt="Nvim" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="openCV" alt="openCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
@@ -25,9 +26,8 @@ My name is Aryan, I am super passionate about Robotics🦾 both on the Hardware 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
- 
 </div>
-  
+<!--
 # Current Projects: 
 
 ### 🖼️ OpenGL Graphics Engine
@@ -36,7 +36,7 @@ I’m currently working on an [OpenGL Graphics Rendering Engine](https://github.
 ### 🛥️ Boat Project for Laboratory for AI Robotics and Automation (LARA)
 Currently working on simulating a USV Boat in ROS2 Foxy and Gazebo 11 as part of the Laboratory for AI Robotics and Automation at UC Davis. Premise of research is to apply RL techniques to a USV.
 
-<!--
+
 ### 🐢 Basic ROS2 Obstacle Avoidance
 ROS2 Rover Project! Trying out some very simple nodes that include basic obstacle avoidance using Lidar, planning to add SLAM, Path Planning, and more cool stuff!
  
